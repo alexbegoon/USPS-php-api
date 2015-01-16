@@ -1,0 +1,8 @@
+{
+    "name": "senior-web-dev/USPS-php-api",
+    "autoload": {
+        "psr-0" : {
+            "Senior-web-dev\\USPS-php-api" : "src"
+        }
+    }
+}
