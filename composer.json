@@ -1,5 +1,5 @@
 {
-    "name": "senior-web-dev/USPS-php-api",
+    "name": "senior-web-dev/usps-php-api",
     "license": "MIT",
     "description": "This wrapper allows you to perform some basic calls to the USPS api",
     "homepage": "https://github.com/senior-web-dev/USPS-php-api",
