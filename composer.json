@@ -1,5 +1,13 @@
 {
     "name": "senior-web-dev/USPS-php-api",
+    "license": "MIT",
+    "description": "This wrapper allows you to perform some basic calls to the USPS api",
+    "homepage": "https://github.com/senior-web-dev/USPS-php-api",
+    "keywords": ["USPS"],
+    "require": {
+        "php": ">=5.0.0",
+        "ext-curl": "*"
+    },
     "autoload": {
         "psr-0" : {
             "Senior-web-dev\\USPS-php-api" : "src"
